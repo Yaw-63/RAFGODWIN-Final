@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin-login.html
+Disallow: /cart.html
+Disallow: /checkout.html
+Disallow: /order-success.html
+
+Sitemap: https://rafgodwin.com/sitemap.xml
+Sitemap: https://rafgodwin.com/sitemap-products.xml
